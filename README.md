@@ -9,6 +9,10 @@ I would love to improve my skills, and enjoy working as a team or individually i
 I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
 
 
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inicp851&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inicp851&show_icons=true&theme=radical&border_color=141E61)
