@@ -15,6 +15,11 @@ I am open for any collaborations! Contact me at Rezagumilar851@gmail.com
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=inicp851&show_icons=true&theme=radical&border_color=141E61" />
   <br></br>
+ 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inicp851&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+  
+  
+  
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=inicp851&theme=radical&border=141E61" />
 
 
